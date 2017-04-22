@@ -51,4 +51,4 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem 'nippo_core', git: 'https://github.com/sasurai-usagi3/nippo-core.git'
+gem 'nippo_core'
