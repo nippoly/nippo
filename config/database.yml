@@ -53,6 +53,6 @@ test:
 #
 production:
   <<: *default
-  database: nippo_production
+  database: nippo
   username: nippo
   password: <%= ENV['NIPPO_DATABASE_PASSWORD'] %>
